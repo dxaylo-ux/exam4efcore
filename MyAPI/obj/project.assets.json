@@ -2682,11 +2682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BEHRUZ\\Desktop\\exam4\\MyAPI\\MyAPI.csproj",
+      "projectUniqueName": "C:\\Users\\BEHRUZ\\Desktop\\dotnet 3\\exam4\\MyAPI\\MyAPI.csproj",
       "projectName": "MyAPI",
-      "projectPath": "C:\\Users\\BEHRUZ\\Desktop\\exam4\\MyAPI\\MyAPI.csproj",
+      "projectPath": "C:\\Users\\BEHRUZ\\Desktop\\dotnet 3\\exam4\\MyAPI\\MyAPI.csproj",
       "packagesPath": "C:\\Users\\BEHRUZ\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BEHRUZ\\Desktop\\exam4\\MyAPI\\obj\\",
+      "outputPath": "C:\\Users\\BEHRUZ\\Desktop\\dotnet 3\\exam4\\MyAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BEHRUZ\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -2702,14 +2702,14 @@
           "framework": "net10.0",
           "targetAlias": "net10.0",
           "projectReferences": {
-            "C:\\Users\\BEHRUZ\\Desktop\\exam4\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\BEHRUZ\\Desktop\\exam4\\Application\\Application.csproj"
+            "C:\\Users\\BEHRUZ\\Desktop\\dotnet 3\\exam4\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\BEHRUZ\\Desktop\\dotnet 3\\exam4\\Application\\Application.csproj"
             },
-            "C:\\Users\\BEHRUZ\\Desktop\\exam4\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\BEHRUZ\\Desktop\\exam4\\Domain\\Domain.csproj"
+            "C:\\Users\\BEHRUZ\\Desktop\\dotnet 3\\exam4\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\BEHRUZ\\Desktop\\dotnet 3\\exam4\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\BEHRUZ\\Desktop\\exam4\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\BEHRUZ\\Desktop\\exam4\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\BEHRUZ\\Desktop\\dotnet 3\\exam4\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\BEHRUZ\\Desktop\\dotnet 3\\exam4\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

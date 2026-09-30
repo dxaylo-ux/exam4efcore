@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HH0OWVz97Ds=",
+  "dgSpecHash": "/02aB0Z13Ek=",
   "success": true,
-  "projectFilePath": "C:\\Users\\BEHRUZ\\Desktop\\exam4\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\BEHRUZ\\Desktop\\dotnet 3\\exam4\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BEHRUZ\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\BEHRUZ\\.nuget\\packages\\microsoft.build.framework\\18.0.2\\microsoft.build.framework.18.0.2.nupkg.sha512",
